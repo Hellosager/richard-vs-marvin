@@ -1,0 +1,29 @@
+#score {
+    background: black;
+    color: red;
+    width: 900px;
+    height: 150px;
+    font-size: 8em;
+    text-align: center;
+}
+
+#gamecanvas {
+    background-color: gray;
+}
+
+body {
+    background-color: black;
+}
+
+.centerHorizontal{
+    margin: auto;
+    display: block;
+}
+
+#instructions {
+    color: yellow;
+    width: 900px;
+    height: 150px;
+    font-size: 3em;
+    text-align: center;
+}
